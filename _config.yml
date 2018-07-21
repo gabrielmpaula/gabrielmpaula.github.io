@@ -36,3 +36,6 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 github:
   repo:             https://github.com/gabrielmpaula
+
+social:
+  linkedin:         http://www.linkedin.com/in/gabrielmpaula
