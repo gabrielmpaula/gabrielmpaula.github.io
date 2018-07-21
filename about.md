@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Gabriel
 sidebar_link: true
 ---
 
