@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Gabriel
+title:            Learning Notes
 tagline:          'A Personal Blog'
 description:      'A personal blog experience.'
 url:              https://gabrielmpaula.github.io
