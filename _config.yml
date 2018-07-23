@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Gabriel
 tagline:          'A Personal Blog'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'A personal blog experience.'
 url:              https://gabrielmpaula.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
