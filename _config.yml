@@ -18,6 +18,8 @@ author:
   name:           'Gabriel Melo de Paula'
   url:            http://www.linkedin.com/in/gabrielmpaula
 
+google_analytics: 'UA-122089797-2'
+
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
