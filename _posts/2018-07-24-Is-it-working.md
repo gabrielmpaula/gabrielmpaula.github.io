@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is it working?
+comments: true
 ---
 
 Well, here we are.
